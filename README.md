@@ -5,6 +5,9 @@
 📞 +91 8511853059  
 📧 jayesh.varotariya@outlook.com  
 
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1sPJu_s80pc-B1-ARVEiQC10cSkZO8rLx/view?usp=sharing)
+
+
 ---
 
 ## 🔧 Skills & Tools
