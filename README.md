@@ -48,4 +48,36 @@ Worked on multiple enterprise apps including:
 - **777 HRMS**: Employee app for accessing internal services using Graph APIs.
 - **SHS Compass**: Compliance monitoring app with SharePoint and automation analytics.
 
-### OpenXcell —
+### OpenXcell —Sr. Android Developer (Sep 2019 – Apr 2021)
+
+### Silver Touch Technologies — Sr. Android Developer (Jan 2019 – Aug 2019)
+
+### Creole Studios — Sr. Android Developer (Sep 2018 – Jan 2019)
+
+### Hyperlink InfoSystem — Android Developer (May 2015 – Sep 2018)
+
+---
+
+## 🚀 Key Projects
+
+- **Daimler HAUS**: Improved employee experience with MSAL-based authentication and chatbot integration.
+- **Vehicle Tracking**: Live vehicle tracking using AT&T network and Android client.
+- **Audio Streaming App**: Online/offline music & podcast streaming with bandwidth-aware audio quality.
+- **Employee Attendance System**: Portable biometric system for on-site attendance tracking.
+- **Online Food Ordering**: Full-stack mobile app for ordering food from local restaurants.
+- **Messaging App**: Geo-social chatting & networking platform with professional use-case support.
+
+---
+
+## 🤖 AI & Future-Ready
+
+- Actively involved in AI-first development
+- Skilled in GPT-4, prompt engineering, AI-driven UX
+
+---
+
+## 📫 Let’s Connect
+
+Open to exciting challenges, especially in AI-driven mobile apps, scalable system architecture, and innovative Android projects.
+
+> _"Code smart, deliver better, and always stay future-ready!"_
