@@ -89,7 +89,7 @@ Worked on multiple enterprise apps including:
 - **Vehicle Tracking & Manage**  
   [🔗 Play Store](https://play.google.com/store/apps/details?id=com.tmobile.drive&hl=en_IN)  
 
-  An app to track vehicle location and status using AT&T network integration.  
+  An app to track vehicle location and status using T-Mobile network integration.  
   - Developed key features like live tracking and vehicle status utilities.  
   - Contributed as an **Android Developer** on core functionalities.
 
