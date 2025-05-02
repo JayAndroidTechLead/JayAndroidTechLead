@@ -63,6 +63,36 @@ Worked on multiple enterprise apps including:
 
 ## 🚀 Key Projects
 
+- **mPokket App**  
+  [🔗 Play Store](https://play.google.com/store/apps/details?id=com.mpokket.app&hl=en_IN&gl=IN&pli=1)  
+  **Duration**: Aug 2024 – Mar 2025  
+  As a **Technical Lead**, led the development of *mPokket*, a scalable mobile app enabling instant personal loans with secure architecture.  
+  - Guided technical direction, mentored team members, and solved complex challenges.  
+  - Ensured code quality, compliance, and efficient delivery aligned with business goals.  
+  - Optimized loan processing workflows for seamless user experience.
+
+- **ANZ Bank Customer-Facing App**  
+  [🔗 Play Store](https://play.google.com/store/apps/details?id=com.anz.android.gomoney&hl=en_IN)  
+  **Duration**: Oct 2023 – Jun 2024  
+  Contributed as an **Android Engineer** to develop and maintain the ANZ mobile banking app.  
+  - Focused on application personalization, nudges, and maintaining high code quality.  
+  - Conducted code reviews and collaborated on feature enhancements.
+
+- **LE Orbit**  
+  [🔗 Play Store](https://play.google.com/store/search?q=infy%20me&c=apps&hl=en_IN)  
+  **Duration**: Aug 2021 – Apr 2022, May 2023 – Oct 2023  
+  A super app solution hosting hundreds of micro-apps for enterprise digital access.  
+  - Worked as **Lead Android Developer**.  
+  - Developed microservices, features like tech bar support, news, and compliance modules.  
+  - Ensured maintainable architecture and consistent code quality.
+
+- **Vehicle Tracking & Manage**  
+  [🔗 Play Store](https://play.google.com/store/apps/details?id=com.tmobile.drive&hl=en_IN)  
+
+  An app to track vehicle location and status using AT&T network integration.  
+  - Developed key features like live tracking and vehicle status utilities.  
+  - Contributed as an **Android Developer** on core functionalities.
+
 - **Daimler HAUS**: Improved employee experience with MSAL-based authentication and chatbot integration.
 - **Vehicle Tracking**: Live vehicle tracking using AT&T network and Android client.
 - **Audio Streaming App**: Online/offline music & podcast streaming with bandwidth-aware audio quality.
