@@ -114,3 +114,6 @@ Worked on multiple enterprise apps including:
 Open to exciting challenges, especially in AI-driven mobile apps, scalable system architecture, and innovative Android projects.
 
 > _"Code smart, deliver better, and always stay future-ready!"_
+
+
+![](https://komarev.com/ghpvc/?username=JayAndroidTechLead&label=PROFILE+VIEWS)
