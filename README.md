@@ -41,7 +41,7 @@ Gujarat Technological University | 2010 – 2014
 
 ## 💼 Experience
 
-### The Economist — Mobile Engineer - On Contract via Geek trust (Jul 2025 – )
+### The Economist — Mobile Engineer - On Contract via Geek trust (Jul 2025 - Present)
 I am working as a dedicated mobile engineer at The Economist Times via Geek Trust, where I developed feature flags for the The Economist Times business news app, which serves over 1 million users worldwide. These feature flags enable precise control over the availability of features in the app and are integrated with analytics to track usage and performance. Leveraging this system, I conduct experiments to assess the impact of new features and optimize existing ones, ensuring data-driven improvements and an enhanced user experience.
 
 ### mPokket — Technical Lead (Aug 2024 – Mar 2025)
@@ -68,7 +68,7 @@ Worked on multiple enterprise apps including:
 
 - **The Economist App**  
   [🔗 Play Store](https://play.google.com/store/apps/details?id=com.et.reader.activities&hl=en_IN)  
-  **Duration**: Jul 2024   
+  **Duration**: Jul 2024 - Present  
  I am working as a dedicated mobile engineer at The Economist Times via Geek Trust, where I developed feature flags for the The Economist Times business news app, which serves over 1 million users worldwide. These feature flags enable precise control over the availability of features in the app and are integrated with analytics to track usage and performance. Leveraging this system, I conduct experiments to assess the impact of new features and optimize existing ones, ensuring data-driven improvements and an enhanced user experience.
 
 - **mPokket App**  
