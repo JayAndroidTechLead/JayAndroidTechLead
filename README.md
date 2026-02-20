@@ -43,7 +43,7 @@ Gujarat Technological University | 2010 – 2014
 
 
 
-### Technogise — Technogise - Technology Consultant (Feb 2026 - Present)
+### Technogise - Technology Consultant (Feb 2026 - Present)
 I am working as a dedicated mobile engineer at The Economist via Geek Trust, where I developed feature flags for the The Economist Times business news app, which serves over 1 million users worldwide. These feature flags enable precise control over the availability of features in the app and are integrated with analytics to track usage and performance. Leveraging this system, I conduct experiments to assess the impact of new features and optimize existing ones, ensuring data-driven improvements and an enhanced user experience.
 
 ### The Economist — Mobile Engineer - On Contract via Geek trust (Jul 2025 - Feb 2026)
